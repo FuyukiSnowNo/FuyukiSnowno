@@ -75,6 +75,9 @@
 <!-- Yearly Contributions Section -->
 <h2 align="center">📅 Contribution Timeline</h2>
 
+<!-- Horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Yearly contribution navigator -->
 <div align="center">
   <h3>📈 Yearly Contribution Graphs</h3>
