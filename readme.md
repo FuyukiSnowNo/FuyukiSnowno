@@ -20,7 +20,7 @@
         A passionate developer focusing on game develope and LLMs
       </p>
       <p>
-        💻 Co-Founder at <a href="https://streamwallets.com/">[StreamWallets]<a/>
+        💻 Co-Founder at <a href="https://streamwallets.com/">[StreamWallets]<a/><br>
         💼 Solution Engineer at [WorkNite](https://worknitegames.com/en/publish)
         ❤️ QA & Creative Strategist for Emberville at [CygnusCross Studio](https://www.cygnuscross.com/)
         💻 Ex-Bluepoch (Reverse: 1999) at [Bluepoch](https://www.bluepoch.com/)
