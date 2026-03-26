@@ -62,10 +62,10 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=FuyukiSnowNo&theme=tokyonight&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true&count_private=true" />
   
   <!-- Top Languages Card -->
-  <!--img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuyukiSnowNo&theme=tokyonight&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact&langs_count=8" />
 </div>
 
 <!-- GitHub Streak Stats -->
