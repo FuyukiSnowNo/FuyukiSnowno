@@ -113,17 +113,17 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/SagitaKDX/E-comerce_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SagitaKDX&repo=E-comerce_Project&theme=tokyonight" />
+  <a href="https://github.com/-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=E-comerce_Project&theme=tokyonight" />
   </a>
-  <a href="https://github.com/SagitaKDX/Inventory-Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SagitaKDX&repo=Inventory-Pro&theme=tokyonight" />
+  <a href="https://github.com/-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=Inventory-Pro&theme=tokyonight" />
   </a>
-  <a href="https://github.com/SagitaKDX/MoodleForum">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SagitaKDX&repo=MoodleForum&theme=tokyonight" />
+  <a href="https://github.com/-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=MoodleForum&theme=tokyonight" />
   </a>
-  <a href="https://github.com/SagitaKDX/Agentchatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SagitaKDX&repo=Agentchatbot&theme=tokyonight" />
+  <a href="https://github.com/-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=Agentchatbot&theme=tokyonight" />
   </a>
 </div>
 
