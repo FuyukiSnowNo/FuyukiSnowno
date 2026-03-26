@@ -32,7 +32,7 @@
         🏆 Competitive Programmer with skills in <b>Algorithms and Data Structures</b><br>
         🚀 Always exploring new technologies and frameworks<br>
         📚 Continuously learning and improving my skills<br>
-        📫 Reach me at: <b>snowfrombelow@proton.me</b><br>
+        📫 Reach me at: <a href="snowfrombelow@proton.me">[Dong Nguyen]</a><br>
         🏠 Discord: <b>SnowNo</b><br>
         🏠 LinkedIn: <a href="https://www.linkedin.com/in/donny-nguyen-6ab457236/">[Dong Nguyen]<a/><br>
       </p>
@@ -135,6 +135,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Footer quote -->
+<br>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
