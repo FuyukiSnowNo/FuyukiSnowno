@@ -24,7 +24,7 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&duration=3200&pause=800&color=0B8800&center=true&vCenter=true&random=false&width=1080&lines=Hello+World!;My+name+is+Dong%C3%A3+Nguyen;I'm+28+years+old;I'm+a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&duration=3200&pause=800&color=0B8800&center=true&vCenter=true&random=false&width=1080&lines=Hello+World!;My+name+is+Dong%C3%+Nguyen;I'm+28+years+old;I'm+a+Software+Developer)](https://git.io/typing-svg)
 <br>
 <br>
 <br>
