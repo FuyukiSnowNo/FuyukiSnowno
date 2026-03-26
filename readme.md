@@ -94,6 +94,7 @@
     <summary><h3>📆 Contribution Calendar</h3></summary>
     <img src="https://githubuser.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
     <img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
+    <img src="https://github.com/KauaAgner/KauaAgner/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
   </details>
 </div>
 
