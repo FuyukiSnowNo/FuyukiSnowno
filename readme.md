@@ -1,5 +1,7 @@
 <br />
 
+![Stats](./profile/stats.svg)
+
 ![gif](https://github.com/user-attachments/assets/3adf0771-1758-45aa-8beb-dd90c8331ef5)
 
 <!-- Animated greeting -->
