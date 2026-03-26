@@ -17,7 +17,7 @@
   <tr>
     <td align="left" width="50%">
       <p>
-        A passionate developer focusing on web technologies and e-commerce solutions
+        A passionate developer focusing on game develope and LLMs
       </p>
       <p>
         💻 Co-Founder at [StreamWallets](https://streamwallets.com/)</b><br>
