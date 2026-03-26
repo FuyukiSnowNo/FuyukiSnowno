@@ -2,6 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowfrombelow-2949)](https://github.com/FuyukiSnowNo/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowfrombelow-2949&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 
 ![gif](https://github.com/user-attachments/assets/3adf0771-1758-45aa-8beb-dd90c8331ef5)
 
