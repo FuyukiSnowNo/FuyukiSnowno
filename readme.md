@@ -39,15 +39,6 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 
 -----
 
-</--
-<br>
-<div align="center">
-  <img 
-    src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=KauaAgner&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true&hide=html,handlebars,css&card_width=450" 
-  />
-</div>
-<br>
--->
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dong Nguyen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
