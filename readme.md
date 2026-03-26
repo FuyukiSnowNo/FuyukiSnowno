@@ -80,7 +80,7 @@
 
 <!-- Yearly contribution navigator -->
 <div align="center">
-  <h3>📈 Yearly Contribution Graphs</h3>
+  <!--h3>📈 Yearly Contribution Graphs</h3>
   
   <details open>
     <summary><b>2026 Contributions</b></summary>
