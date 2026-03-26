@@ -80,7 +80,7 @@
 
 <!-- Yearly contribution navigator -->
 <div align="center">
-  <!--h3>📈 Yearly Contribution Graphs</h3>
+  <h3><!--📈 Yearly Contribution Graphs--></h3>
   
   <details open>
     <summary><b>2026 Contributions</b></summary>
@@ -96,7 +96,6 @@
   <details>
     <summary><h3>📆 Contribution Calendar</h3></summary>
     <img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
-    <img src="https://github.com/KauaAgner/KauaAgner/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
   </details>
 </div>
 
