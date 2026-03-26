@@ -1,8 +1,5 @@
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/FuyukiSnowNo/github-readme-stats)
-
-
 ![gif](https://github.com/user-attachments/assets/3adf0771-1758-45aa-8beb-dd90c8331ef5)
 
 <!-- Animated greeting -->
@@ -68,7 +65,7 @@
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowfrombelow-2949&theme=tokyonight&show_icons=true&count_private=true" />
   
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagitaXDX&theme=tokyonight&layout=compact&langs_count=8" />
 </div>
 
 <!-- GitHub Streak Stats -->
