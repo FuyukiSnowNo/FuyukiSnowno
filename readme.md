@@ -32,7 +32,7 @@
         🏆 Competitive Programmer with skills in <b>Algorithms and Data Structures</b><br>
         🚀 Always exploring new technologies and frameworks<br>
         📚 Continuously learning and improving my skills<br>
-        📫 Reach me at: <a href="snowfrombelow@proton.me">[Dong Nguyen]</a><br>
+        📫 Reach me at: <b>snowfrombelow@proton.me</b></b><br>
         🏠 Discord: <b>SnowNo</b><br>
         🏠 LinkedIn: <a href="https://www.linkedin.com/in/donny-nguyen-6ab457236/">[Dong Nguyen]<a/><br>
       </p>
