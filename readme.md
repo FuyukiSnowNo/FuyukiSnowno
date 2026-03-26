@@ -8,12 +8,6 @@
   </a>
 </h1>
 
-</div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FuyukiSnowNo/FuyukiSnowno/output/snake.svg" alt="Snake animation" />
-  <!--img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake.svg" alt="snake"/-->
-</div>
-
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
