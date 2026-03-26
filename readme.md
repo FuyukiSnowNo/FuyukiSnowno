@@ -1,6 +1,6 @@
 <br />
 
-I'm a self-taught passionate social inept nerd from Vietnam 
+I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://www.linkedin.com/in/donny-nguyen-6ab457236/)
 
 **About me**
 
