@@ -33,7 +33,7 @@
         🚀 Always exploring new technologies and frameworks<br>
         📚 Continuously learning and improving my skills<br>
         📫 Reach me at: <b>snowfrombelow@proton.me</b><br>
-        🏠 Discord: <b>SnowNo</b>
+        🏠 Discord: <b>SnowNo</b><br>
         🏠 LinkedIn: <a href="https://www.linkedin.com/in/donny-nguyen-6ab457236/">[Dong Nguyen]<a/><br>
       </p>
     </td>
@@ -133,25 +133,6 @@
 
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-<!-- Connect Section -->
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
-  <a href="mailto:snowfrombelow@proton.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/FuyukiSnownNo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/donny-nguyen-6ab457236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://discord.com/users">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
 
 <!-- Footer quote -->
 <div align="center">
