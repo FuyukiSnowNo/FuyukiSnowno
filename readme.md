@@ -64,7 +64,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SagitaKDX&theme=tokyonight&show_icons=true&count_private=true" />
   
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagitaKDX&theme=tokyonight&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuyukiSnowNo&theme=tokyonight&layout=compact&langs_count=8" />
 </div>
 
 <!-- GitHub Streak Stats -->
