@@ -20,12 +20,12 @@
         A passionate developer focusing on game develope and LLMs
       </p>
       <p>
-        💻 Co-Founder at [StreamWallets](https://streamwallets.com/)</b><br>
-        💼 Solution Engineer at [WorkNite](https://worknitegames.com/en/publish)<b><br>
-        ❤️ QA & Creative Strategist for Emberville at [CygnusCross Studio](https://www.cygnuscross.com/)<b><br>
-        💻 Ex-Bluepoch (Reverse: 1999) at [Bluepoch](https://www.bluepoch.com/)</a><br>
-        💻 Acid Wizard Studio (Darkwood) on hiatus in August 2023 [Darkwood Game](https://www.darkwoodgame.com/presskit/)<a><br>
-        🌱 Passionate about <b>LLMs, games and engineer solutions</b><br>
+        💻 Co-Founder at <a href="https://streamwallets.com/">[StreamWallets]<a/>
+        💼 Solution Engineer at [WorkNite](https://worknitegames.com/en/publish)
+        ❤️ QA & Creative Strategist for Emberville at [CygnusCross Studio](https://www.cygnuscross.com/)
+        💻 Ex-Bluepoch (Reverse: 1999) at [Bluepoch](https://www.bluepoch.com/)
+        💻 Acid Wizard Studio (Darkwood) on hiatus in August 2023 [Darkwood Game](https://www.darkwoodgame.com/presskit/)
+        🌱 Passionate about LLMs, games and engineer solutions
         🏆 Competitive Programmer with skills in <b>Algorithms and Data Structures</b><br>
         🚀 Always exploring new technologies and frameworks<br>
         📚 Continuously learning and improving my skills<br>
