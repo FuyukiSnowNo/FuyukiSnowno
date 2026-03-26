@@ -80,24 +80,14 @@
   <h3>📈 Yearly Contribution Graphs</h3>
   
   <details open>
-    <summary><b>2024 Contributions</b></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagitaKDX&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202024" alt="2024 Contribution Graph" />
+    <summary><b>2026 Contributions</b></summary>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuyukiSnowNo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202026" alt="2026 Contribution Graph" />
   </details>
   
   <details>
-    <summary><b>2023 Contributions</b></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagitaKDX&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202023&from=2023-01-01&to=2023-12-31" alt="2023 Contribution Graph" />
-  </details>
-  
-  <details>
-    <summary><b>2022 Contributions</b></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagitaKDX&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202022&from=2022-01-01&to=2022-12-31" alt="2022 Contribution Graph" />
-  </details>
-  
-  <details>
-    <summary><b>2021 Contributions</b></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagitaKDX&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202021&from=2021-01-01&to=2021-12-31" alt="2021 Contribution Graph" />
-  </details>
+    <summary><b>2025 Contributions</b></summary>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuyukiSnowNo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202025&from=2025-01-01&to=2025-12-31" alt="2025 Contribution Graph" />
+    <details>
 
   <!-- Contribution calendar -->
   <details>
