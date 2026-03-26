@@ -106,7 +106,8 @@
   <!-- Contribution calendar -->
   <details>
     <summary><h3>📆 Contribution Calendar</h3></summary>
-    <img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
+    <!--img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" /-->
+    <img src="https://raw.githubusercontent.com/FuyukiSnowNo/FuyukiSnowno/output/snake.svg" alt="Snake animation" />
   </details>
 </div>
 
