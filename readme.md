@@ -134,16 +134,16 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 <h2 align="center">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="mailto:hmmminhle@gmail.com">
+  <a href="mailto:snowfrombelow@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/SagitaKDX">
+  <a href="https://github.com/FuyukiSnownNo">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/LeThanhMinh/">
+  <a href="https://www.linkedin.com/in/donny-nguyen-6ab457236/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/620605881704251403">
+  <a href="https://discord.com/users">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
