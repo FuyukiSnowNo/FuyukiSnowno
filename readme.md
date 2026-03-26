@@ -7,19 +7,7 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
-- 💼 Co-Founder at [StreamWallets](https://streamwallets.com/)
 
-- 💼 FrontEnd Solution Engineer at [WorkNite](https://worknitegames.com/en/publish)
-
-- ❤️ QA & Creative Strategist for Emberville at [CygnusCross Studio](https://www.cygnuscross.com/)
-
-- 📈 Ex-Bluepoch (Reverse: 1999) at [Bluepoch](https://www.bluepoch.com/)
-
-- 📈 Acid Wizard Studio (Darkwood) on hiatus in August 2023 [Darkwood Game](https://www.darkwoodgame.com/presskit/)
-
--  I love gaming and building fun LLMs/SDK+API experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/FuyukiSnowNo/FuyukiSnowno/issues)
 
 - ### Languages ⌨️
   ![Skills](https://skillicons.dev/icons?i=java,js,py,c,html,css)
@@ -60,15 +48,17 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
         A passionate developer focusing on web technologies and e-commerce solutions
       </p>
       <p>
-        🔭 Student at <b>University of Greenwich</b><br>
-        🌱 Passionate about <b>Web Development and E-commerce solutions</b><br>
+        💻 Co-Founder at [StreamWallets](https://streamwallets.com/)</b><br>
+        💼 Solution Engineer at [WorkNite](https://worknitegames.com/en/publish)<b><br>
+        ❤️ QA & Creative Strategist for Emberville at [CygnusCross Studio](https://www.cygnuscross.com/)<b><br>
+        💻 Ex-Bluepoch (Reverse: 1999) at [Bluepoch](https://www.bluepoch.com/)</a><br>
+        💻 Acid Wizard Studio (Darkwood) on hiatus in August 2023 [Darkwood Game](https://www.darkwoodgame.com/presskit/)<a><br>
+        🌱 Passionate about <b>LLMs, games and engineer solutions</b><br>
         🏆 Competitive Programmer with skills in <b>Algorithms and Data Structures</b><br>
-        💻 Check out my <a href="https://github.com/SagitaKDX/E-comerce_Project">E-Commerce Project</a><br>
-        👨‍💻 View my <a href="https://github.com/SagitaKDX/University-training">Competitive Programming solutions</a><br>
         🚀 Always exploring new technologies and frameworks<br>
         📚 Continuously learning and improving my skills<br>
-        📫 Reach me at: <b>hmmminhle@gmail.com</b><br>
-        🏠 Discord: <b>PolarPenguin</b>
+        📫 Reach me at: <b>snowfrombelow@proton.me</b><br>
+        🏠 Discord: <b>SnowNo</b>
       </p>
     </td>
     <td align="center" width="50%">
