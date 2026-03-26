@@ -34,8 +34,8 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 </div>
 
 <div align="center">
-
   <img src="https://raw.githubusercontent.com/FuyukiSnowNo/FuyukiSnowno/output/snake.svg" alt="Snake animation" />
+  [//]: # <img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 -----
