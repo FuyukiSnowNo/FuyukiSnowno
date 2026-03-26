@@ -5,7 +5,7 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 
 **About me**
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 
 - 💼 Co-Founder at [StreamWallets](https://streamwallets.com/)
 
