@@ -111,6 +111,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Projects Section -->
+<!--
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
@@ -127,6 +128,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=Agentchatbot&theme=tokyonight" />
   </a>
 </div>
+-->
 
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
