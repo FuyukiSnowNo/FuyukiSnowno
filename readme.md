@@ -91,8 +91,10 @@
     <summary><b>2025 Contributions</b></summary>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuyukiSnowNo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202025&from=2025-01-01&to=2025-12-31" alt="2025 Contribution Graph" />
     <details>
+</div>
 
   <!-- Contribution calendar -->
+<div align="center">
   <details>
     <summary><h2>📆 Contribution Calendar</h2></summary>
     <img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
