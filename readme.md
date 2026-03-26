@@ -34,6 +34,7 @@
         📚 Continuously learning and improving my skills<br>
         📫 Reach me at: <b>snowfrombelow@proton.me</b><br>
         🏠 Discord: <b>SnowNo</b>
+        🏠 LinkedIn: <a href="https://www.linkedin.com/in/donny-nguyen-6ab457236/">[Dong Nguyen]<a/><br>
       </p>
     </td>
     <td align="center" width="50%">
