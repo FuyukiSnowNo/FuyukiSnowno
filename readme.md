@@ -1,5 +1,8 @@
 <br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![gif](https://github.com/user-attachments/assets/3adf0771-1758-45aa-8beb-dd90c8331ef5)
 
 <!-- Animated greeting -->
