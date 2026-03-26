@@ -1,10 +1,11 @@
 <br />
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://www.linkedin.com/in/donny-nguyen-6ab457236/)
 
 **About me**
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 - 💼 Co-Founder at [StreamWallets](https://streamwallets.com/)
 
