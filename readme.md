@@ -94,7 +94,7 @@
 
   <!-- Contribution calendar -->
   <details>
-    <summary><h4>📆 Contribution Calendar</h4></summary>
+    <summary><h2>📆 Contribution Calendar</h2></summary>
     <img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
   </details>
 </div>
