@@ -47,11 +47,46 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
   <!--img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake.svg" alt="snake"/-->
 </div>
 
------
+<!-- Horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Combined About Me & Technologies Section -->
+<h2 align="center">👨‍💻 About Me & My Tech Stack</h2>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dong Nguyen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <p>
+        A passionate developer focusing on web technologies and e-commerce solutions
+      </p>
+      <p>
+        🔭 Student at <b>University of Greenwich</b><br>
+        🌱 Passionate about <b>Web Development and E-commerce solutions</b><br>
+        🏆 Competitive Programmer with skills in <b>Algorithms and Data Structures</b><br>
+        💻 Check out my <a href="https://github.com/SagitaKDX/E-comerce_Project">E-Commerce Project</a><br>
+        👨‍💻 View my <a href="https://github.com/SagitaKDX/University-training">Competitive Programming solutions</a><br>
+        🚀 Always exploring new technologies and frameworks<br>
+        📚 Continuously learning and improving my skills<br>
+        📫 Reach me at: <b>hmmminhle@gmail.com</b><br>
+        🏠 Discord: <b>PolarPenguin</b>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h4>💻 Programming Languages</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,cs,php,java" />
+      </p>
+      <h4>🧰 Frameworks & Libraries</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=django,bootstrap,react,jquery" />
+      </p>
+      <h4>🗄️ Databases & Tools</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
