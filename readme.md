@@ -30,12 +30,10 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3200&pause=800&color=0B8800&center=true&vCenter=true&random=false&width=1080&lines=Hello+World!;My+name+is+Dong+Nguyen;I'm+28+years+old;I'm+a+Developer)](https://git.io/typing-svg)
 <br>
 <br>
-<br>
 </div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/FuyukiSnowNo/FuyukiSnowno/output/snake.svg" alt="Snake animation" />
-  [//]: # <img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <!--img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake.svg" alt="snake"/-->
 </div>
 
 -----
