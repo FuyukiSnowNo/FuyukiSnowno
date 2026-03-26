@@ -1,5 +1,7 @@
 <br />
 
+![Stats](./profile/stats.svg)
+
 ![gif](https://github.com/user-attachments/assets/3adf0771-1758-45aa-8beb-dd90c8331ef5)
 
 <!-- Animated greeting -->
@@ -62,7 +64,6 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  ![Stats](./profile/stats.svg)
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true&count_private=true" />
   
   <!-- Top Languages Card -->
