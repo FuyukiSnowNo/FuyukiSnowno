@@ -43,7 +43,7 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="50%">
+    <td align="left" width="50%">
       <p>
         A passionate developer focusing on web technologies and e-commerce solutions
       </p>
