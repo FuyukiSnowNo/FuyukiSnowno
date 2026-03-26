@@ -82,7 +82,7 @@
 <div align="center">
   <h3><!--📈 Yearly Contribution Graphs--></h3>
   
-  <details open>
+  <details>
     <summary><b>2026 Contributions</b></summary>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuyukiSnowNo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202026" alt="2026 Contribution Graph" />
   </details>
@@ -93,9 +93,14 @@
     <details>
 </div>
 
+
+<!-- Horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
   <!-- Contribution calendar -->
 <div align="center">
-  <details>
+  <details open>
     <summary><h2>📆 Contribution Calendar</h2></summary>
     <img src="https://github.com/FuyukiSnowNo/FuyukiSnowno/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Calendar" />
   </details>
