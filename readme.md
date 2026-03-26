@@ -24,5 +24,25 @@ I'm a self-taught passionate social inept nerd from Vietnam [LinkedIn](https://w
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=43&duration=3200&pause=800&color=0B8800&center=true&vCenter=true&random=false&width=1080&lines=Hello+World!;My+name+is+Kau%C3%A3+Agner;I'm+23+years+old;I'm+a+Software+Developer)](https://git.io/typing-svg)
+<br>
+<br>
+<br>
+</div>
+
+<div align="center">
+  <img src="https://github.com/KauaAgner/KauaAgner/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
+
+-----
+
+<br>
+<div align="center">
+  <img 
+    src="https://github-readme-stats-five-ashy-96.vercel.app/api/top-langs/?username=KauaAgner&layout=compact&langs_count=6&count_private=true&theme=tokyonight&hide_border=true&hide=html,handlebars,css&card_width=450" 
+  />
+</div>
+<br>
+
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Dong Nguyen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
