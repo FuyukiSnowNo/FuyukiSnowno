@@ -69,7 +69,7 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagitaKDX&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FuyukiSnowNo&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <!-- Yearly Contributions Section -->
