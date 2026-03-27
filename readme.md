@@ -88,7 +88,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuyukiSnowNo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202026" alt="2026 Contribution Graph" />
   </details>
   
-  <details>
+  <!--details>
     <summary><b>2025 Contributions</b></summary>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuyukiSnowNo&theme=tokyo-night&hide_border=true&area=true&custom_title=Contributions%20in%202025&from=2025-01-01&to=2025-12-31" alt="2025 Contribution Graph" />
     <details>
