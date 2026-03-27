@@ -33,7 +33,7 @@
         🚀 Always exploring new technologies and frameworks<br>
         📚 Continuously learning and improving my skills<br>
         📫 Reach me at: <b>snowfrombelow@proton.me</b></b><br>
-        🏠 Discord: <b>SnowNo</b><br>
+        🏠 Discord: <b>snowno.null</b><br>
         🏠 LinkedIn: <a href="https://www.linkedin.com/in/donny-nguyen-6ab457236/">[Dong Nguyen]<a/><br>
       </p>
     </td>
