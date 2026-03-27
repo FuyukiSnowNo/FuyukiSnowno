@@ -65,7 +65,7 @@
   <!--img height="180em" src="https://github-readme-stats.vercel.app/api?username=snowfrombelow-2949&theme=tokyonight&show_icons=true&count_private=true" />
   
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats-xgtf.vercel.app/api/top-langs/?username=FuyukiSnowNo&theme=tokyonight&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-xgtf.vercel.app/api/top-langs/?username=FuyukiSnowNo&add_from_repo=true&include_all_commits=true&count_private=true&theme=tokyonight&layout=compact&langs_count=8" />
 </div>
 
 <!-- GitHub Streak Stats -->
