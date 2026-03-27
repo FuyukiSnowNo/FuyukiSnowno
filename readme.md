@@ -20,7 +20,7 @@
   <tr>
     <td align="left" width="50%">
       <p>
-        A passionate developer focusing on game develope and LLMs
+        A passionate developer focusing on game develop and LLMs
       </p>
       <p>
         💻 Co-Founder at <a href="https://streamwallets.com/">[StreamWallets]<a/><br>
