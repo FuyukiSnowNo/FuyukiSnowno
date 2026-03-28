@@ -28,9 +28,9 @@
         ❤️ QA & Creative Strategist for Emberville at <a href="https://www.cygnuscross.com/">[CygnusCross Studio]<a/><br>
         💻 Ex-Bluepoch (Reverse: 1999) at <a href="https://www.bluepoch.com/">[Bluepoch]<a/><br>
         🏆 Acid Wizard Studio (Darkwood) on hiatus in Aug 2023 <a href="https://www.darkwoodgame.com/presskit">[Darkwood Game]<a/><br>
-        🌱 Passionate about <b>LLMs, games and engineer solutions </b> with skills in <b>Algorithms and Data Structures</b><br>
+        🌱 Passionate about <b>LLMs, games and engineer solutions</b><br>
+        📚 Continuously learning and improving my skills in <b>Algorithms and Data Structures</b><br>
         🚀 Always exploring new technologies and frameworks<br>
-        📚 Continuously learning and improving my skills<br>
         📫 Reach me at: <b>snowfrombelow@proton.me</b></b><br>
         🏠 Discord: <b>snowno.null</b><br>
         🏠 LinkedIn: <a href="https://www.linkedin.com/in/donny-nguyen-6ab457236/">[Dong Nguyen]<a/><br>
