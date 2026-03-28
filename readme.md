@@ -61,7 +61,7 @@
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats-xgtf.vercel.app/api?username=FuyukiSnowNo&theme=tokyonight&show_icons=true&count_private=true" />
+  <!--img height="180em" src="https://github-readme-stats-xgtf.vercel.app/api?username=FuyukiSnowNo&theme=tokyonight&show_icons=true&count_private=true" />
   
   <!-- Top Languages Card -->
   <img height="180em" src="https://github-readme-stats-xgtf.vercel.app/api/top-langs/?username=FuyukiSnowNo&v=2&add_from_repo=true&include_all_commits=true&count_private=true&theme=tokyonight&layout=compact&langs_count=8" />
@@ -118,16 +118,16 @@
 
 <div align="center">
   <a href="https://github.com/-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=E-comerce_Project&theme=tokyonight" />
+    <img src="https://github-readme-stats-xgtf.vercel.app/api?username=FuyukiSnowNo&repo=-&theme=tokyonight" />
   </a>
   <a href="https://github.com/-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=Inventory-Pro&theme=tokyonight" />
+    <img src="https://github-readme-stats-xgtf.vercel.app/api?username=FuyukiSnowNo&repo=-&theme=tokyonight" />
   </a>
   <a href="https://github.com/-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=MoodleForum&theme=tokyonight" />
+    <img src="https://github-readme-stats-xgtf.vercel.app/api?username=FuyukiSnowNo&repo=-&theme=tokyonight" />
   </a>
   <a href="https://github.com/-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FuyukiSnowNo&repo=Agentchatbot&theme=tokyonight" />
+    <img src="https://github-readme-stats-xgtf.vercel.app/api?username=FuyukiSnowNo&repo=-&theme=tokyonight" />
   </a>
 </div>
 -->
