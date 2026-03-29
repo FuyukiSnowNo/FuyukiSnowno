@@ -15,7 +15,7 @@ jobs:
       
       # GitHub Stats Card - using a version that exists
       - name: GitHub Stats Card
-        uses: anuraghazra/github-readme-stats@master
+        uses: FuyukiSnowNo/github-readme-stats@master
         with:
           username: ${{ github.repository_owner }}
           show_icons: true
@@ -24,7 +24,7 @@ jobs:
           
       # Generate activity graph - using master instead of v2
       - name: Generate Activity Graph
-        uses: ashutosh00710/github-readme-activity-graph@master
+        uses: FuyukiSnowNo/github-readme-activity-graph@master
         with:
           github_user_name: ${{ github.repository_owner }}
           theme: tokyo-night
