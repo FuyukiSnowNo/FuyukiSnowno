@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: anuraghazra/github-readme-stats@v4
+      - uses: anuraghazra/github-readme-stats@v3
         with:
           token: ${{ secrets.GH_TOKEN }}
