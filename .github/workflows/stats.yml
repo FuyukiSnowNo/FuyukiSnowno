@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: FuyukiSnowNo/github-readme-stats-update@master
+      - uses: FuyukiSnowNo/github-readme-stats-update
         with:
           token: ${{ secrets.GH_TOKEN }}
