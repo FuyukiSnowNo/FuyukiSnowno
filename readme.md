@@ -27,7 +27,7 @@
         💻 Ex-Bluepoch (Reverse: 1999) at <a href="https://www.bluepoch.com/">[Bluepoch]<a/><br>
         🏆 Acid Wizard Studio (Darkwood) on hiatus in Aug 2023 <a href="https://www.darkwoodgame.com/presskit">[Darkwood Game]<a/><br>
         🌱 Passionate about <b>LLMs, games and engineer solutions</b><br>
-        📚 Continuously learning and improving my skills in <b>Algorithms and Data Structures</b><br>
+        📚 Continuously learning and improving my skills <br>
         🚀 Always exploring new technologies and frameworks<br>
         📫 Reach me at: <b>snowfrombelow@proton.me</b></b><br>
         🏠 Discord: <b>snowno.null</b><br>
