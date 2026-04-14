@@ -67,7 +67,7 @@
 
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FuyukiSnowNo&theme=tokyonight&v=1&cache_seconds=14400" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FuyukiSnowNo&include_all_commits=true&count_private=true&theme=tokyonight&v=1&cache_seconds=14400" alt="GitHub Streak" />
 </div>
 
 <!-- Yearly Contributions Section -->
